@@ -5,7 +5,7 @@ keywords: "Windsurf Pro 价格,Windsurf AI IDE,Cascade,Agent 编程,编辑器工
 tags: "Windsurf,AI IDE,Windsurf Pro,Agent 编程"
 ---
 
-# Windsurf
+# Windsurf Coding Plan
 
 Windsurf 是面向开发者的 AI IDE，提供编辑器内 Agent、代码生成和开发辅助能力。
 

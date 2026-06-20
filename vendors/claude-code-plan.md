@@ -5,7 +5,7 @@ keywords: "Claude Code 价格,Claude Code 平替,Claude Opus,Claude Sonnet,Claud
 tags: "Claude Code,Coding Agent,Claude Code 平替,AI 编程"
 ---
 
-# Claude Code
+# Claude Code Plan
 
 Claude Code 是 Anthropic 提供的官方编程 Agent，随 Claude 个人或团队订阅使用，适合终端编程、代码理解、项目修改和文档处理。
 

@@ -5,7 +5,7 @@ keywords: "Trae Pro 价格,Trae AI IDE,AI 编程工具,自动补全,Agent 开发
 tags: "Trae,AI IDE,Trae Pro,Agent 编程"
 ---
 
-# Trae
+# Trae Coding Plan
 
 Trae 是面向 AI 编程的 IDE 产品，提供 Pro 订阅、模型额度和自动补全能力，适合日常开发与 Agent 编程工作流。
 

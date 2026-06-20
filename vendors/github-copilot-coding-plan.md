@@ -5,7 +5,7 @@ keywords: "GitHub Copilot Pro 价格,Copilot Chat,Agent Mode,代码补全,GitHub
 tags: "GitHub Copilot,AI 编程助手,Copilot Pro,代码补全"
 ---
 
-# GitHub Copilot
+# GitHub Copilot Coding Plan
 
 GitHub Copilot 是 GitHub 提供的 AI 编程助手，覆盖代码补全、聊天、Agent Mode 和 GitHub 生态内的开发辅助。
 

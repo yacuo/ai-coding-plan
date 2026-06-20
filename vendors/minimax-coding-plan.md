@@ -5,7 +5,7 @@ keywords: "MiniMax Coding Plan,MiniMax Token Plan,MiniMax-M3,MiniMax-M2.7,Claude
 tags: "MiniMax,Coding Plan,Token Plan,多模态"
 ---
 
-# MiniMax
+# MiniMax Coding Plan
 
 MiniMax 提供面向 Agent、编程和多模态调用的 Token Plan / Coding Plan，采用统一额度池思路。
 

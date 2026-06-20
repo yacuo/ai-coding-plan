@@ -5,7 +5,7 @@ keywords: "Cursor Pro 价格,Cursor AI IDE,Cursor Agent,Composer,代码补全,AI
 tags: "Cursor,AI IDE,Cursor Pro,Agent 编程"
 ---
 
-# Cursor
+# Cursor Coding Plan
 
 Cursor 是面向开发者的 AI IDE，适合在编辑器内完成代码补全、重构、问答和 Agent 编程任务。
 

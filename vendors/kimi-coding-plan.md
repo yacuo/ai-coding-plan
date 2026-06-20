@@ -5,7 +5,7 @@ keywords: "Kimi Code 价格,Kimi Coding Plan,Kimi K2.7 Code,Kimi K2.6,Kimi CLI,C
 tags: "Kimi Code,Coding Plan,国产模型,Claude Code 平替"
 ---
 
-# Kimi Code
+# Kimi Coding Plan
 
 Kimi Code 是月之暗面提供的 AI 编程相关能力，和 Kimi 会员、Agent、办公能力共享额度池。
 

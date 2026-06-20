@@ -5,26 +5,25 @@
   "keywords": "Coding Plan,AI Coding Plan,Coding Plan 价格,Coding Plan 对比,AI IDE 价格,AI 编程订阅,Claude Code 平替,Claude Code 价格,Cursor Pro 价格,Trae Pro 价格,Windsurf Pro 价格,GitHub Copilot Pro 价格,Kimi Code 价格,MiniMax Coding Plan,GLM Coding Plan,国产 Coding Plan,Agent 编程工具",
   "brand": "AI Coding Plan Lite",
   "primaryUrl": "https://tokenplan.vip/",
+  "siteUrl": "https://codingplan.pw",
   "githubUrl": "https://github.com/yacuo/ai-coding-plan",
   "heroTags": ["Coding Plan", "AI IDE", "Claude Code 平替", "Agent 编程", "国产 Coding Plan"],
-  "sections": [
-    {
-      "title": "快速对比",
-      "items": [
-        { "name": "Claude Code", "price": "$20/月", "type": "Coding Agent", "summary": "Claude Opus / Sonnet / Haiku，适合终端编程 Agent 与 Claude 官方生态。", "url": "/vendors/claude-code/", "detailUrl": "https://tokenplan.vip/claude-token-plan" },
-        { "name": "Cursor", "price": "$20/月", "type": "AI IDE", "summary": "Cursor Pro、多模型、Composer 和 Agent，适合 IDE 内 AI 编程。", "url": "/vendors/cursor/", "detailUrl": "https://tokenplan.vip/cursor-token-plan" },
-        { "name": "Trae", "price": "$10/月", "type": "AI IDE", "summary": "Trae Pro、多模型、Agent 与自动补全，适合低门槛 AI IDE 订阅。", "url": "/vendors/trae/", "detailUrl": "https://tokenplan.vip/trae-token-plan" },
-        { "name": "Windsurf", "price": "$20/月", "type": "AI IDE", "summary": "Windsurf Pro、Cascade 和 Agent，适合编辑器内多步骤开发任务。", "url": "/vendors/windsurf/", "detailUrl": "https://tokenplan.vip/windsurf-token-plan" },
-        { "name": "GitHub Copilot", "price": "$10/月", "type": "AI 编程助手", "summary": "Copilot Pro、Chat、Agent Mode 和补全，适合 GitHub 生态。", "url": "/vendors/github-copilot/", "detailUrl": "https://tokenplan.vip/github-copilot-token-plan" },
-        { "name": "Kimi Code", "price": "¥49/月", "type": "Coding Plan", "summary": "Kimi K2.7 Code / K2.6，适合国产 Coding Plan 与 Claude Code 接入。", "url": "/vendors/kimi-code/", "detailUrl": "https://tokenplan.vip/kimi-token-plan" },
-        { "name": "MiniMax", "price": "¥49/月", "type": "Token / Coding Plan", "summary": "MiniMax-M3 / M2.7，适合 Agent、编程、多模态和多工具接入。", "url": "/vendors/minimax/", "detailUrl": "https://tokenplan.vip/minimax-token-plan" },
-        { "name": "GLM", "price": "¥49/月", "type": "Coding Plan", "summary": "智谱 GLM 系列，适合国产模型生态、编程套餐和 Claude Code 平替。", "url": "/vendors/glm/", "detailUrl": "https://tokenplan.vip/zhipu-token-plan" }
-      ]
-    }
-  ],
+  "sections": [{
+    "title": "快速对比",
+    "items": [
+      { "name": "Claude Code Plan", "price": "$20/月", "type": "Coding Agent", "summary": "Claude Opus / Sonnet / Haiku，适合终端编程 Agent 与 Claude 官方生态。", "url": "/claude-code-plan/", "detailUrl": "https://tokenplan.vip/claude-token-plan" },
+      { "name": "Cursor Coding Plan", "price": "$20/月", "type": "AI IDE", "summary": "Cursor Pro、多模型、Composer 和 Agent，适合 IDE 内 AI 编程。", "url": "/cursor-coding-plan/", "detailUrl": "https://tokenplan.vip/cursor-token-plan" },
+      { "name": "Trae Coding Plan", "price": "$10/月", "type": "AI IDE", "summary": "Trae Pro、多模型、Agent 与自动补全，适合低门槛 AI IDE 订阅。", "url": "/trae-coding-plan/", "detailUrl": "https://tokenplan.vip/trae-token-plan" },
+      { "name": "Windsurf Coding Plan", "price": "$20/月", "type": "AI IDE", "summary": "Windsurf Pro、Cascade 和 Agent，适合编辑器内多步骤开发任务。", "url": "/windsurf-coding-plan/", "detailUrl": "https://tokenplan.vip/windsurf-token-plan" },
+      { "name": "GitHub Copilot Coding Plan", "price": "$10/月", "type": "AI 编程助手", "summary": "Copilot Pro、Chat、Agent Mode 和补全，适合 GitHub 生态。", "url": "/github-copilot-coding-plan/", "detailUrl": "https://tokenplan.vip/github-copilot-token-plan" },
+      { "name": "Kimi Coding Plan", "price": "¥49/月", "type": "Coding Plan", "summary": "Kimi K2.7 Code / K2.6，适合国产 Coding Plan 与 Claude Code 接入。", "url": "/kimi-coding-plan/", "detailUrl": "https://tokenplan.vip/kimi-token-plan" },
+      { "name": "MiniMax Coding Plan", "price": "¥49/月", "type": "Token / Coding Plan", "summary": "MiniMax-M3 / M2.7，适合 Agent、编程、多模态和多工具接入。", "url": "/minimax-coding-plan/", "detailUrl": "https://tokenplan.vip/minimax-token-plan" },
+      { "name": "Zhipu Coding Plan", "price": "¥49/月", "type": "Coding Plan", "summary": "智谱 GLM 系列，适合国产模型生态、编程套餐和 Claude Code 平替。", "url": "/zhipu-coding-plan/", "detailUrl": "https://tokenplan.vip/zhipu-token-plan" }
+    ]
+  }],
   "guides": [
-    { "name": "Claude Code 平替套餐目录", "url": "/guides/claude-code-alternatives/" },
-    { "name": "AI IDE 套餐价格目录", "url": "/guides/ai-ide-plans/" },
-    { "name": "国产 AI Coding Plan 目录", "url": "/guides/domestic-coding-plans/" }
+    { "name": "Claude Code 平替套餐目录", "url": "/claude-code-alternatives/" },
+    { "name": "AI IDE 套餐价格目录", "url": "/ai-ide-pricing/" },
+    { "name": "国产 AI Coding Plan 目录", "url": "/china-ai-coding-plan/" }
   ]
 }

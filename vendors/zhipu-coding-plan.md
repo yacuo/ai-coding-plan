@@ -5,7 +5,7 @@ keywords: "GLM Coding Plan,智谱 Coding Plan,GLM 编程模型,国产 Coding Pla
 tags: "GLM,智谱,Coding Plan,国产模型"
 ---
 
-# GLM Coding Plan
+# Zhipu GLM Coding Plan
 
 GLM Coding Plan 是智谱相关的 AI 编程订阅方向，适合关注国产模型、编程助手和 Claude Code 平替的用户。
 
