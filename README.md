@@ -40,35 +40,35 @@
 
 ### Claude Code
 
-Claude Code 适合关注 Claude Code 价格、Claude Code 订阅、Claude Opus、Claude Sonnet、Claude Haiku、终端编程 Agent 和 Claude 官方编程工具的用户。
+Claude Code 价格从 $20/月起。适合关注 Claude Code 价格、Claude Code 订阅、Claude Opus、Claude Sonnet、Claude Haiku、终端编程 Agent 和 Claude 官方编程工具的用户。
 
 ### Cursor Pro
 
-Cursor 适合关注 Cursor Pro 价格、Cursor AI IDE、Cursor Agent、Composer、代码补全、多模型接入和编辑器内 AI 编程体验的用户。
+Cursor Pro 价格从 $20/月起。适合关注 Cursor Pro 价格、Cursor AI IDE、Cursor Agent、Composer、代码补全、多模型接入和编辑器内 AI 编程体验的用户。
 
 ### Trae Pro
 
-Trae 适合关注 Trae Pro 价格、Trae AI IDE、AI 编程工具、自动补全、Agent 开发和低门槛 AI IDE 订阅的用户。
+Trae 价格从免费档起。适合关注 Trae Pro 价格、Trae AI IDE、AI 编程工具、自动补全、Agent 开发和低门槛 AI IDE 订阅的用户。
 
 ### Windsurf Pro
 
-Windsurf 适合关注 Windsurf Pro 价格、Windsurf AI IDE、Cascade、Agent 编程、编辑器工作流和 AI 代码生成工具的用户。
+Windsurf Pro 价格从 $20/月起。适合关注 Windsurf Pro 价格、Windsurf AI IDE、Cascade、Agent 编程、编辑器工作流和 AI 代码生成工具的用户。
 
 ### GitHub Copilot Pro
 
-GitHub Copilot 适合关注 GitHub Copilot Pro 价格、Copilot Chat、Agent Mode、代码补全、GitHub 生态和团队编程助手的用户。
+GitHub Copilot Pro 价格从 $10/月起。适合关注 GitHub Copilot Pro 价格、Copilot Chat、Agent Mode、代码补全、GitHub 生态和团队编程助手的用户。
 
 ### Kimi Code
 
-Kimi Code 适合关注 Kimi Code 价格、Kimi Coding Plan、Kimi K2.7 Code、Kimi K2.6、Kimi CLI、Claude Code 接入和国产 AI 编程订阅的用户。
+Kimi Code 价格从 ¥49/月起。适合关注 Kimi Code 价格、Kimi Coding Plan、Kimi K2.7 Code、Kimi K2.6、Kimi CLI、Claude Code 接入和国产 AI 编程订阅的用户。
 
 ### MiniMax Coding Plan
 
-MiniMax 适合关注 MiniMax Coding Plan、MiniMax Token Plan、MiniMax-M3、MiniMax-M2.7、Claude Code 接入、Cursor 接入、Cline 接入和多模态 Agent 套餐的用户。
+MiniMax Coding Plan 价格从 ¥49/月起，积分价格 1000=¥7。适合关注 MiniMax Coding Plan、MiniMax Token Plan、MiniMax-M3、MiniMax-M2.7、Claude Code 接入、Cursor 接入、Cline 接入和多模态 Agent 套餐的用户。
 
 ### GLM Coding Plan
 
-GLM 适合关注 GLM Coding Plan、智谱 Coding Plan、GLM 编程模型、国产 Coding Plan、Claude Code 平替和 AI 编程订阅的用户。
+GLM Coding Plan 价格从 ¥49/月起。适合关注 GLM Coding Plan、智谱 Coding Plan、GLM 编程模型、国产 Coding Plan、Claude Code 平替和 AI 编程订阅的用户。
 
 ## 适合谁看
 
