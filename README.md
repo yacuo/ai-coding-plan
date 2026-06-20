@@ -12,16 +12,16 @@
 
 ## 快速对比
 
-| 产品 | 入门价格 | 类型 | 主要模型或工具 | 关注点 |
-|---|---:|---|---|---|
-| [Claude Code](vendors/claude-code-plan.md) | $20/月 | Coding Agent | Claude Opus / Sonnet / Haiku | 官方 Agent、终端编程、Claude 生态 |
-| [Cursor](vendors/cursor-coding-plan.md) | $20/月 | AI IDE | Cursor Pro、多模型 | IDE 内编程、自动补全、Agent |
-| [Trae](vendors/trae-coding-plan.md) | $10/月 | AI IDE | Trae Pro、多模型 | AI IDE、低门槛订阅 |
-| [Windsurf](vendors/windsurf-coding-plan.md) | $20/月 | AI IDE | Windsurf Pro | Agent 编程、编辑器工作流 |
-| [GitHub Copilot](vendors/github-copilot-coding-plan.md) | $10/月 | AI 编程助手 | Copilot Pro | GitHub 生态、补全、Agent Mode |
-| [Kimi Code](vendors/kimi-coding-plan.md) | ¥49/月 | Coding Plan | Kimi K2.7 Code / K2.6 | 国产模型、Claude Code 接入 |
-| [MiniMax](vendors/minimax-coding-plan.md) | ¥49/月 | Token / Coding Plan | MiniMax-M3 / M2.7 | Agent、编程、多模态额度池 |
-| [GLM](vendors/zhipu-coding-plan.md) | ¥49/月 | Coding Plan | GLM 系列 | 国产模型、编程套餐 |
+| 产品 | 类型 | 价格 | 模型/工具 | 关注点 |
+|---|---|---:|---|---|
+| [Claude Code](vendors/claude-code-plan.md) | Coding Agent | $20/月 | Claude | 终端 Agent、官方生态 |
+| [Cursor](vendors/cursor-coding-plan.md) | AI IDE | $20/月 | Cursor | IDE Agent、补全 |
+| [Trae](vendors/trae-coding-plan.md) | AI IDE | $10/月 | Trae | 低门槛订阅 |
+| [Windsurf](vendors/windsurf-coding-plan.md) | AI IDE | $20/月 | Windsurf | Cascade、Agent |
+| [GitHub Copilot](vendors/github-copilot-coding-plan.md) | 编程助手 | $10/月 | Copilot | GitHub、补全 |
+| [Kimi Code](vendors/kimi-coding-plan.md) | Coding Plan | ¥49/月 | Kimi | 国产、Claude Code 接入 |
+| [MiniMax](vendors/minimax-coding-plan.md) | Coding Plan | ¥49/月 | MiniMax | Agent、多模态 |
+| [GLM](vendors/zhipu-coding-plan.md) | Coding Plan | ¥49/月 | GLM | 国产编程套餐 |
 
 
 ## 专题目录
