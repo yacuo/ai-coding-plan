@@ -11,6 +11,8 @@ tags: "Claude Code 平替,Coding Plan,国产模型,Agent 编程"
 
 这个专题整理 Claude Code 平替方向。重点不是只找便宜套餐，而是比较模型能力、代码效果、额度、额度重置、优惠、官网入口、Claude Code 接入和 Cursor 接入方式。
 
+数据来源：[TokenPlan 详情](https://tokenplan.vip/)
+
 ## 快速对比
 
 | 方案 | 类型 | 入门价格 | 重点能力 | 适合场景 |
