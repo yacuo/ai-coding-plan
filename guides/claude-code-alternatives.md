@@ -1,29 +1,59 @@
 ---
-title: "Claude Code 平替套餐目录"
-description: "整理 Claude Code 平替、Kimi Code、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Claude Code 接入和 Agent 编程套餐方向。"
-keywords: "Claude Code 平替,Claude Code 价格,Kimi Code,MiniMax Coding Plan,GLM Coding Plan,国产 Coding Plan,Agent 编程套餐,AI Coding Plan"
+title: "Claude Code 平替套餐目录：Coding Plan、接入方式、额度综合对比"
+description: "整理 Claude Code 平替、Kimi Coding Plan、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Claude Code 接入、Cursor 接入和 Agent 编程套餐。"
+keywords: "Claude Code 平替,Claude Code 价格,Claude Code 接入,Coding Plan,Kimi Coding Plan,MiniMax Coding Plan,GLM Coding Plan,国产 Coding Plan,Cursor 接入,额度,官网入口"
 tags: "Claude Code 平替,Coding Plan,国产模型,Agent 编程"
 ---
 
-# Claude Code 平替套餐目录
+# Claude Code 平替套餐目录：Coding Plan、接入方式、额度综合对比
 
-这个页面整理可以关注的 Claude Code 平替方向，只做价格、模型和工具接入的简要目录。
+> 可视化页面：[https://codingplan.pw/claude-code-alternatives/](https://codingplan.pw/claude-code-alternatives/)
+
+这个专题整理 Claude Code 平替方向。重点不是只找便宜套餐，而是比较模型能力、代码效果、额度、额度重置、优惠、官网入口、Claude Code 接入和 Cursor 接入方式。
 
 ## 快速对比
 
-| 产品 | 入门价格 | 主要模型 | 工具接入 | 关注点 |
-|---|---:|---|---|---|
-| Claude Code | $20/月 | Claude Opus / Sonnet / Haiku | Claude Code | 官方方案 |
-| Kimi Code | ¥49/月 | Kimi K2.7 Code / K2.6 | Kimi CLI / Claude Code / Roo Code | 国产 Coding Plan |
-| MiniMax | ¥49/月 | MiniMax-M3 / M2.7 | Claude Code / Cursor / Cline / TRAE | 多工具接入 |
-| GLM Coding Plan | ¥49/月 | GLM 系列 | Coding Plan | 国产模型生态 |
+| 方案 | 类型 | 入门价格 | 重点能力 | 适合场景 |
+|---|---|---:|---|---|
+| Claude Code Plan | 官方 Coding Agent | $20/月 | Claude 官方生态、终端 Agent、代码理解 | 追求官方体验和代码质量 |
+| Kimi Coding Plan | 国产 Coding Plan | ¥49/月 | Kimi Code、长上下文、Claude Code 接入 | 国内替代、中文项目 |
+| MiniMax Coding Plan | 国产模型 / Agent | ¥49/月 | Agent、多模态、工具调用 | 多工具、多模态开发 |
+| Zhipu GLM Coding Plan | 国产 Coding Plan | ¥49/月 | GLM 代码能力、国产生态 | 企业和国产模型接入 |
+| Cursor Coding Plan | AI IDE | $20/月 | IDE Agent、Composer、多模型 | 不想只用终端 Agent 的用户 |
 
-## 怎么看
+## 选择维度
 
-- 如果你想用官方 Claude 生态，先看 Claude Code。
-- 如果你关注国产模型和人民币订阅，先看 Kimi Code、MiniMax、GLM。
-- 如果你主要在 IDE 内写代码，也可以同时比较 Cursor、Trae、Windsurf。
+| 维度 | 说明 |
+|---|---|
+| 接入方式 | 是否支持 Claude Code、Cursor、自定义 base URL 或 OpenAI 兼容接口 |
+| 代码能力 | 多文件修改、重构、测试、解释错误、生成脚本能力 |
+| 额度 | 高级模型调用次数、上下文长度、额度重置周期 |
+| 国内体验 | 支付、访问、账号注册、控制台稳定性 |
+| 成本 | 月费、API 按量、团队版、优惠和免费额度 |
+| 安全 | 是否适合上传私有代码，是否有团队数据策略 |
+
+## 推荐场景
+
+### 追求官方 Claude Code 体验
+
+优先看 Claude Code Plan。适合终端 Agent、复杂代码理解、英文文档和跨文件修改。
+
+### 想找国产 Claude Code 平替
+
+优先看 Kimi、MiniMax、GLM。重点验证 Claude Code 接入方式、模型名、base URL、额度和稳定性。
+
+### 更习惯 IDE 工作流
+
+优先看 Cursor、Trae、Windsurf。它们不一定是 Claude Code 的一比一替代，但更适合编辑器内持续开发。
+
+## 入口索引
+
+- [Claude Code Plan](../vendors/claude-code-plan.md)
+- [Kimi Coding Plan](../vendors/kimi-coding-plan.md)
+- [MiniMax Coding Plan](../vendors/minimax-coding-plan.md)
+- [Zhipu GLM Coding Plan](../vendors/zhipu-coding-plan.md)
+- [Cursor Coding Plan](../vendors/cursor-coding-plan.md)
 
 ## 说明
 
-价格、额度、模型名称和套餐权益可能随时变化，请以实时页面为准。完整对比与详情请查看 [TokenPlan](https://tokenplan.vip/)。
+Claude Code 平替不是只看价格。建议同时测试代码质量、工具调用、上下文、额度消耗和国内网络体验。最终以官方页面和 [TokenPlan](https://tokenplan.vip/) 为准。
