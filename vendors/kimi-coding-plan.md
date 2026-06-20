@@ -15,7 +15,7 @@ tags: "Kimi,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 
 Kimi Code 是月之暗面提供的 AI 编程相关能力，和 Kimi 会员、Agent、办公能力共享额度池。
 
-数据来源：[TokenPlan 详情](https://tokenplan.vip/kimi-coding-plan)
+数据来源：[TokenPlan 详情：https://tokenplan.vip/kimi-coding-plan](https://tokenplan.vip/kimi-coding-plan)
 
 ## 价格
 

@@ -15,7 +15,7 @@ tags: "GitHub Copilot,Coding Plan,Token Plan,价格对比,Claude Code 平替,官
 
 GitHub Copilot 是 GitHub 提供的 AI 编程助手，覆盖代码补全、聊天、Agent Mode 和 GitHub 生态内的开发辅助。
 
-数据来源：[TokenPlan 详情](https://tokenplan.vip/github-copilot-coding-plan)
+数据来源：[TokenPlan 详情：https://tokenplan.vip/github-copilot-coding-plan](https://tokenplan.vip/github-copilot-coding-plan)
 
 ## 价格
 

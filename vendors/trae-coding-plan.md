@@ -15,7 +15,7 @@ tags: "Trae,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 
 Trae 是面向 AI 编程的 IDE 产品，提供 Pro 订阅、模型额度和自动补全能力，适合日常开发与 Agent 编程工作流。
 
-数据来源：[TokenPlan 详情](https://tokenplan.vip/trae-coding-plan)
+数据来源：[TokenPlan 详情：https://tokenplan.vip/trae-coding-plan](https://tokenplan.vip/trae-coding-plan)
 
 ## 价格
 

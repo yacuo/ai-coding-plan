@@ -15,7 +15,7 @@ tags: "Windsurf,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入
 
 Windsurf 是面向开发者的 AI IDE，提供编辑器内 Agent、代码生成和开发辅助能力。
 
-数据来源：[TokenPlan 详情](https://tokenplan.vip/windsurf-coding-plan)
+数据来源：[TokenPlan 详情：https://tokenplan.vip/windsurf-coding-plan](https://tokenplan.vip/windsurf-coding-plan)
 
 ## 价格
 
