@@ -22,14 +22,14 @@ GLM Coding Plan 是智谱相关的 AI 编程订阅方向，适合关注国产模
 
 ## 主要模型
 
-- GLM 系列模型
-- GLM 编程相关模型
+- GLM 系列模型（Coding Plan ¥49/月起）
+- GLM 编程相关模型（Coding Plan ¥49/月起）
 
 ## 工具接入
 
 - Coding Plan
 - 编程助手
-- Claude Code 平替相关工作流
+- Claude Code（Claude Pro $20/月起） 平替相关工作流
 
 ## 关注点
 

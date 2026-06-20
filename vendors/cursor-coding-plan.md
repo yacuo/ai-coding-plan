@@ -18,7 +18,7 @@ Cursor 是面向开发者的 AI IDE，适合在编辑器内完成代码补全、
 ## 价格
 
 - 入门价格：$20/月
-- 主要套餐：Cursor Pro / Team / Ultra 等
+- 主要套餐：Cursor Pro $20/月起 / Team / Ultra 等
 
 ## 主要模型或能力
 
@@ -29,7 +29,7 @@ Cursor 是面向开发者的 AI IDE，适合在编辑器内完成代码补全、
 
 ## 工具接入
 
-- Cursor IDE
+- Cursor（Cursor Pro $20/月起） IDE
 - Composer / Agent
 - Inline Edit
 

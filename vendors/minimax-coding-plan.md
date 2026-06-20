@@ -22,15 +22,15 @@ MiniMax 提供面向 Agent、编程和多模态调用的 Token Plan / Coding Pla
 
 ## 主要模型
 
-- MiniMax-M3
-- MiniMax-M2.7
-- MiniMax-M2.7-highspeed
+- MiniMax-M3（Coding Plan ¥49/月起；积分 1000=¥7）
+- MiniMax-M2.7（Coding Plan ¥49/月起；积分 1000=¥7）
+- MiniMax-M2.7（Coding Plan ¥49/月起；积分 1000=¥7）-highspeed
 - Speech / Image / Music 多模态模型
 
 ## 工具接入
 
-- Claude Code
-- Cursor
+- Claude Code（Claude Pro $20/月起）
+- Cursor（Cursor Pro $20/月起）
 - Cline
 - Roo Code
 - TRAE

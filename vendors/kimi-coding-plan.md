@@ -22,16 +22,16 @@ Kimi Code 是月之暗面提供的 AI 编程相关能力，和 Kimi 会员、Age
 
 ## 主要模型
 
-- Kimi K2.7 Code
-- Kimi K2.6
-- Kimi K2.5
+- Kimi K2.7 Code（Kimi 会员 ¥49/月起）
+- Kimi K2.6（Kimi 会员 ¥49/月起）
+- Kimi K2.5（Kimi 会员 ¥49/月起）
 
 ## 工具接入
 
-- Kimi CLI
-- Claude Code
+- Kimi CLI（Kimi 会员 ¥49/月起）
+- Claude Code（Claude Pro $20/月起）
 - Roo Code
-- Kimi Code for VS Code
+- Kimi Code for VS Code（Kimi 会员 ¥49/月起）
 
 ## 关注点
 

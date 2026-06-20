@@ -14,14 +14,14 @@
 
 | 产品 | 类型 | 价格 | 模型/工具 | 关注点 |
 |---|---|---:|---|---|
-| [Claude Code](vendors/claude-code-plan.md) | Coding Agent | $20/月 | Claude | 终端 Agent、官方生态 |
-| [Cursor](vendors/cursor-coding-plan.md) | AI IDE | $20/月 | Cursor | IDE Agent、补全 |
-| [Trae](vendors/trae-coding-plan.md) | AI IDE | $10/月 | Trae | 低门槛订阅 |
-| [Windsurf](vendors/windsurf-coding-plan.md) | AI IDE | $20/月 | Windsurf | Cascade、Agent |
-| [GitHub Copilot](vendors/github-copilot-coding-plan.md) | 编程助手 | $10/月 | Copilot | GitHub、补全 |
-| [Kimi Code](vendors/kimi-coding-plan.md) | Coding Plan | ¥49/月 | Kimi | 国产、Claude Code 接入 |
-| [MiniMax](vendors/minimax-coding-plan.md) | Coding Plan | ¥49/月 | MiniMax | Agent、多模态 |
-| [GLM](vendors/zhipu-coding-plan.md) | Coding Plan | ¥49/月 | GLM | 国产编程套餐 |
+| [Claude Code](vendors/claude-code-plan.md) | Coding Agent | $20/月起 | Claude | 终端 Agent、官方生态 |
+| [Cursor](vendors/cursor-coding-plan.md) | AI IDE | $20/月起 | Cursor | IDE Agent、补全 |
+| [Trae](vendors/trae-coding-plan.md) | AI IDE | 免费起 | Trae | 低门槛订阅 |
+| [Windsurf](vendors/windsurf-coding-plan.md) | AI IDE | $20/月起 | Windsurf | Cascade、Agent |
+| [GitHub Copilot](vendors/github-copilot-coding-plan.md) | 编程助手 | $10/月起 | Copilot | GitHub、补全 |
+| [Kimi Code](vendors/kimi-coding-plan.md) | Coding Plan | ¥49/月起 | Kimi | 国产、Claude Code 接入 |
+| [MiniMax](vendors/minimax-coding-plan.md) | Coding Plan | ¥49/月起；积分 1000=¥7 | MiniMax | Agent、多模态 |
+| [GLM](vendors/zhipu-coding-plan.md) | Coding Plan | ¥49/月起 | GLM | 国产编程套餐 |
 
 
 ## 专题目录
