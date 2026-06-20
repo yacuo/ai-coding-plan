@@ -6,7 +6,7 @@
 
 常见搜索场景包括：Coding Plan 价格、Coding Plan 对比、AI Coding Plan、AI IDE 价格、AI 编程订阅、Claude Code 价格、Claude Code 平替、Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、Kimi Code 价格、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Agent 编程工具。
 
-本仓库是 [TokenPlan](https://tokenplan.vip/) 的 GitHub 精简版，适合快速浏览、收藏和 Fork。完整套餐权益、额度说明和最新价格请查看 TokenPlan。
+本仓库是 [TokenPlan](https://tokenplan.vip/) 的 GitHub 精简版，适合快速浏览、收藏和 Fork。你也可以直接打开可视化站点：[codingplan.pw](https://codingplan.pw/)。完整套餐权益、额度说明和最新价格请查看 TokenPlan。
 
 如果这个仓库帮你少开几个价格页，欢迎 Star，方便下次查看。
 
@@ -15,20 +15,20 @@
 | 产品 | 入门价格 | 类型 | 主要模型或工具 | 关注点 |
 |---|---:|---|---|---|
 | [Claude Code](vendors/claude-code-plan.md) | $20/月 | Coding Agent | Claude Opus / Sonnet / Haiku | 官方 Agent、终端编程、Claude 生态 |
-| [Cursor](vendors/cursor.md) | $20/月 | AI IDE | Cursor Pro、多模型 | IDE 内编程、自动补全、Agent |
-| [Trae](vendors/trae.md) | $10/月 | AI IDE | Trae Pro、多模型 | AI IDE、低门槛订阅 |
+| [Cursor](vendors/cursor-coding-plan.md) | $20/月 | AI IDE | Cursor Pro、多模型 | IDE 内编程、自动补全、Agent |
+| [Trae](vendors/trae-coding-plan.md) | $10/月 | AI IDE | Trae Pro、多模型 | AI IDE、低门槛订阅 |
 | [Windsurf](vendors/windsurf-coding-plan.md) | $20/月 | AI IDE | Windsurf Pro | Agent 编程、编辑器工作流 |
-| [GitHub Copilot](vendors/github-copilot.md) | $10/月 | AI 编程助手 | Copilot Pro | GitHub 生态、补全、Agent Mode |
-| [Kimi Code](vendors/kimi-code.md) | ¥49/月 | Coding Plan | Kimi K2.7 Code / K2.6 | 国产模型、Claude Code 接入 |
-| [MiniMax](vendors/minimax.md) | ¥49/月 | Token / Coding Plan | MiniMax-M3 / M2.7 | Agent、编程、多模态额度池 |
-| [GLM](vendors/glm.md) | ¥49/月 | Coding Plan | GLM 系列 | 国产模型、编程套餐 |
+| [GitHub Copilot](vendors/github-copilot-coding-plan.md) | $10/月 | AI 编程助手 | Copilot Pro | GitHub 生态、补全、Agent Mode |
+| [Kimi Code](vendors/kimi-coding-plan.md) | ¥49/月 | Coding Plan | Kimi K2.7 Code / K2.6 | 国产模型、Claude Code 接入 |
+| [MiniMax](vendors/minimax-coding-plan.md) | ¥49/月 | Token / Coding Plan | MiniMax-M3 / M2.7 | Agent、编程、多模态额度池 |
+| [GLM](vendors/zhipu-coding-plan.md) | ¥49/月 | Coding Plan | GLM 系列 | 国产模型、编程套餐 |
 
 
 ## 专题目录
 
 - [Claude Code 平替套餐目录](guides/claude-code-alternatives.md)：整理 Claude Code 平替、Kimi Code、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Claude Code 接入和 Agent 编程套餐方向。
-- [AI IDE 套餐价格目录](guides/ai-ide-plans.md)：整理 Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、AI IDE 订阅和 Agent 编程工具方向。
-- [国产 AI Coding Plan 目录](guides/domestic-coding-plans.md)：整理 Kimi Coding Plan、MiniMax Coding Plan、GLM Coding Plan、国产 AI 编程订阅、Claude Code 平替和人民币套餐方向。
+- [AI IDE 套餐价格目录](guides/ai-ide-pricing.md)：整理 Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、AI IDE 订阅和 Agent 编程工具方向。
+- [国产 AI Coding Plan 目录](guides/china-ai-coding-plan.md)：整理 Kimi Coding Plan、MiniMax Coding Plan、GLM Coding Plan、国产 AI 编程订阅、Claude Code 平替和人民币套餐方向。
 
 ## 常见查询场景
 

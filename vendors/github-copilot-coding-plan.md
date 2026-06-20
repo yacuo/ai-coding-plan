@@ -7,6 +7,8 @@ tags: "GitHub Copilot,Coding Plan,Token Plan,价格对比,Claude Code 平替,官
 
 # GitHub Copilot Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan
 
+> 可视化页面：[https://codingplan.pw/github-copilot-coding-plan/](https://codingplan.pw/github-copilot-coding-plan/)
+
 ## 综合对比重点
 
 本页不是单纯列价格，而是围绕 Coding Plan、Token Plan、价格对比、额度、额度重置、免费额度、优惠、官网入口、Claude Code 平替、Cursor、Claude Code 接入配置等搜索场景做综合整理。
