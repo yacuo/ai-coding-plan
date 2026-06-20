@@ -1,11 +1,15 @@
 ---
-title: "Trae Pro 价格与 AI IDE 订阅目录"
-description: "Trae Pro 价格、Trae AI IDE、AI 编程工具、自动补全、Agent 开发和低门槛 AI IDE 订阅摘要。"
-keywords: "Trae Pro 价格,Trae AI IDE,AI 编程工具,自动补全,Agent 开发,AI IDE 价格,AI Coding Plan"
-tags: "Trae,AI IDE,Trae Pro,Agent 编程"
+title: "Trae Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan"
+description: "Trae Coding Plan、Token Plan 综合对比，覆盖价格、额度、额度重置、免费额度、优惠和官网入口，适合比较 Trae 怎么样、值不值得，以及 Claude Code 平替、Cursor、Claude Code 接入配置。"
+keywords: "Token Plan,Coding Plan,Trae,Trae 价格,Trae 对比,Trae 优惠,Claude Code 平替,Trae 怎么样,额度,额度重置,免费额度,官网入口,Claude Code,Cursor,Codex,Claude Code 接入"
+tags: "Trae,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 ---
 
-# Trae Coding Plan
+# Trae Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan
+
+## 综合对比重点
+
+本页不是单纯列价格，而是围绕 Coding Plan、Token Plan、价格对比、额度、额度重置、免费额度、优惠、官网入口、Claude Code 平替、Cursor、Claude Code 接入配置等搜索场景做综合整理。
 
 Trae 是面向 AI 编程的 IDE 产品，提供 Pro 订阅、模型额度和自动补全能力，适合日常开发与 Agent 编程工作流。
 

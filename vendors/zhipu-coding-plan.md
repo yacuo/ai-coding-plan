@@ -1,11 +1,15 @@
 ---
-title: "GLM Coding Plan 与智谱 AI 编程订阅目录"
-description: "GLM Coding Plan、智谱 Coding Plan、GLM 编程模型、国产 Coding Plan、Claude Code 平替和 AI 编程订阅摘要。"
-keywords: "GLM Coding Plan,智谱 Coding Plan,GLM 编程模型,国产 Coding Plan,Claude Code 平替,AI 编程订阅,AI Coding Plan"
-tags: "GLM,智谱,Coding Plan,国产模型"
+title: "Zhipu GLM Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan"
+description: "Zhipu GLM Coding Plan、Token Plan 综合对比，覆盖价格、额度、额度重置、免费额度、优惠和官网入口，适合比较 Zhipu GLM 怎么样、值不值得，以及 Claude Code 平替、Cursor、Claude Code 接入配置。"
+keywords: "Token Plan,Coding Plan,Zhipu GLM,Zhipu GLM 价格,Zhipu GLM 对比,Zhipu GLM 优惠,Claude Code 平替,Zhipu GLM 怎么样,额度,额度重置,免费额度,官网入口,Claude Code,Cursor,Codex,Claude Code 接入"
+tags: "Zhipu GLM,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 ---
 
-# Zhipu GLM Coding Plan
+# Zhipu GLM Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan
+
+## 综合对比重点
+
+本页不是单纯列价格，而是围绕 Coding Plan、Token Plan、价格对比、额度、额度重置、免费额度、优惠、官网入口、Claude Code 平替、Cursor、Claude Code 接入配置等搜索场景做综合整理。
 
 GLM Coding Plan 是智谱相关的 AI 编程订阅方向，适合关注国产模型、编程助手和 Claude Code 平替的用户。
 

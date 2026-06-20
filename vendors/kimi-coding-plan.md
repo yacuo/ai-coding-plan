@@ -1,11 +1,15 @@
 ---
-title: "Kimi Code 价格与 Kimi Coding Plan 目录"
-description: "Kimi Code 价格、Kimi Coding Plan、Kimi K2.7 Code、Kimi K2.6、Kimi CLI、Claude Code 接入和国产 AI 编程订阅摘要。"
-keywords: "Kimi Code 价格,Kimi Coding Plan,Kimi K2.7 Code,Kimi K2.6,Kimi CLI,Claude Code 接入,国产 AI 编程订阅"
-tags: "Kimi Code,Coding Plan,国产模型,Claude Code 平替"
+title: "Kimi Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan"
+description: "Kimi Coding Plan、Token Plan 综合对比，覆盖价格、额度、额度重置、免费额度、优惠和官网入口，适合比较 Kimi 怎么样、值不值得，以及 Claude Code 平替、Cursor、Claude Code 接入配置。"
+keywords: "Token Plan,Coding Plan,Kimi,Kimi 价格,Kimi 对比,Kimi 优惠,Claude Code 平替,Kimi 怎么样,额度,额度重置,免费额度,官网入口,Claude Code,Cursor,Codex,Claude Code 接入"
+tags: "Kimi,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 ---
 
-# Kimi Coding Plan
+# Kimi Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan
+
+## 综合对比重点
+
+本页不是单纯列价格，而是围绕 Coding Plan、Token Plan、价格对比、额度、额度重置、免费额度、优惠、官网入口、Claude Code 平替、Cursor、Claude Code 接入配置等搜索场景做综合整理。
 
 Kimi Code 是月之暗面提供的 AI 编程相关能力，和 Kimi 会员、Agent、办公能力共享额度池。
 
