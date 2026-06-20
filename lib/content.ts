@@ -131,6 +131,21 @@ function getToc(markdown: string): TocItem[] {
   });
 }
 
+function createSeo(title: string, body: string, isVendor: boolean) {
+  if (!isVendor) {
+    return {
+      title,
+      description: stripMarkdown(body).slice(0, 150),
+      keywords: "Token Plan,Coding Plan,AI Coding Plan,AI IDE 价格,Claude Code 平替,额度,官网入口",
+    };
+  }
+  const brand = title.replace(/\s*(Coding Plan|Code Plan|Plan)$/i, "").trim();
+  const seoTitle = `${brand} Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan`;
+  const description = `${brand} Coding Plan、Token Plan 综合对比，覆盖价格、额度、额度重置、免费额度、优惠和官网入口，适合比较 ${brand} 怎么样、值不值得，以及 Claude Code 平替、Cursor、Claude Code 接入配置。`;
+  const keywords = `Token Plan,Coding Plan,${brand},${brand} 价格,${brand} 对比,${brand} 优惠,Claude Code 平替,${brand} 怎么样,额度,额度重置,免费额度,官网入口,Claude Code,Cursor,Codex,Claude Code 接入`;
+  return { title: seoTitle, description, keywords };
+}
+
 export function getArticles(): Article[] {
   return CONTENT_DIRS.flatMap((dir) => {
     const fullDir = path.join(root, dir);
@@ -139,12 +154,11 @@ export function getArticles(): Article[] {
       const raw = fs.readFileSync(path.join(fullDir, file), "utf8");
       const { data, body } = parseFrontmatter(raw);
       const fallbackTitle = body.match(/^#\s+(.+)$/m)?.[1] ?? file.replace(/\.md$/, "");
-      const description = data.description || stripMarkdown(body).slice(0, 150);
-      const keywords = data.keywords || "Coding Plan,AI Coding Plan,AI IDE 价格,Claude Code 平替";
+      const seo = createSeo(data.title || fallbackTitle, body, dir === "vendors");
       const tags = (data.tags || "").split(",").map((tag) => tag.trim()).filter(Boolean);
       const name = file.replace(/\.md$/, "");
       const slug = [name];
-      return { slug, href: `/${name}/`, sourcePath: `${dir}/${file}`, title: data.title || fallbackTitle, description, keywords, tags, toc: getToc(body), body: markdownToHtml(body) };
+      return { slug, href: `/${name}/`, sourcePath: `${dir}/${file}`, title: seo.title, description: data.description || seo.description, keywords: data.keywords || seo.keywords, tags, toc: getToc(body), body: markdownToHtml(body) };
     });
   });
 }
