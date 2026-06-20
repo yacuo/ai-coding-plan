@@ -6,7 +6,17 @@
 
 常见搜索场景包括：Coding Plan 价格、Coding Plan 对比、AI Coding Plan、AI IDE 价格、AI 编程订阅、Claude Code 价格、Claude Code 平替、Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、Kimi Code 价格、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Agent 编程工具。
 
-本仓库是 [TokenPlan](https://tokenplan.vip/) 的 GitHub 精简版，适合快速浏览、收藏和 Fork。你也可以直接打开可视化站点：[codingplan.pw](https://codingplan.pw/)。完整套餐权益、额度说明和最新价格请查看 TokenPlan。
+本仓库是 [TokenPlan](https://tokenplan.vip/) 的 GitHub 精简版，适合快速浏览、收藏和 Fork。
+
+## 站点来源
+
+官方来源：**TokenPlan**  
+### https://tokenplan.vip
+
+可视化站点：**codingplan.pw**  
+### https://codingplan.pw
+
+完整套餐权益、额度说明和最新价格请查看 TokenPlan。
 
 如果这个仓库帮你少开几个价格页，欢迎 Star，方便下次查看。
 
