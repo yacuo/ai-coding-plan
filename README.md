@@ -13,7 +13,7 @@
 ## 快速对比
 
 | 产品 | 类型 | 价格 | 模型/工具 | 关注点 |
-|---|---|---:|---|---|
+|---|---|---|---|---|
 | [Claude Code](vendors/claude-code-plan.md) | Coding Agent | $20/月起 | Claude | 终端 Agent、官方生态 |
 | [Cursor](vendors/cursor-coding-plan.md) | AI IDE | $20/月起 | Cursor | IDE Agent、补全 |
 | [Trae](vendors/trae-coding-plan.md) | AI IDE | 免费起 | Trae | 低门槛订阅 |
