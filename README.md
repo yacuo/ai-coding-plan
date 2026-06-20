@@ -1,6 +1,6 @@
-# Coding Plan、AI IDE 价格对比 ｜ Claude Code 平替与 AI 编程订阅目录
+# Coding Plan、AI IDE、Token Plan 价格对比 ｜ Claude Code 平替与 AI 编程订阅目录
 
-面向中国用户整理的 AI Coding Plan、AI IDE、AI 编程订阅、Claude Code 平替、Cursor Pro、Trae Pro、Windsurf Pro、GitHub Copilot Pro、Kimi Code、MiniMax Coding Plan 与 GLM Coding Plan 价格目录。
+面向中国用户整理的 AI Coding Plan、Token Plan、AI IDE、AI 编程订阅、Claude Code 平替、Cursor Pro、Trae Pro、Windsurf Pro、GitHub Copilot Pro、Kimi Code、MiniMax Coding Plan 与 GLM Coding Plan 价格目录。
 
 如果你正在比较 Claude Code、Cursor、Trae、Windsurf、GitHub Copilot、Kimi Code、MiniMax、GLM 等 Coding Plan 与 AI IDE 订阅，这个仓库用 GitHub README 做一份精简版对比：看入门价格、套餐类型、主要模型、工具接入、Agent 编程能力、国产 Coding Plan 和 TokenPlan 详情页。
 
