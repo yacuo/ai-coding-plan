@@ -23,16 +23,6 @@
 | [MiniMax](vendors/minimax.md) | ¥49/月 | Token / Coding Plan | MiniMax-M3 / M2.7 | Agent、编程、多模态额度池 |
 | [GLM](vendors/glm.md) | ¥49/月 | Coding Plan | GLM 系列 | 国产模型、编程套餐 |
 
-## 厂商目录
-
-- [Claude Code](vendors/claude-code.md)
-- [Cursor](vendors/cursor.md)
-- [Trae](vendors/trae.md)
-- [Windsurf](vendors/windsurf.md)
-- [GitHub Copilot](vendors/github-copilot.md)
-- [Kimi Code](vendors/kimi-code.md)
-- [MiniMax](vendors/minimax.md)
-- [GLM](vendors/glm.md)
 
 ## 专题目录
 
@@ -40,7 +30,7 @@
 - [AI IDE 套餐价格目录](guides/ai-ide-plans.md)：整理 Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、AI IDE 订阅和 Agent 编程工具方向。
 - [国产 AI Coding Plan 目录](guides/domestic-coding-plans.md)：整理 Kimi Coding Plan、MiniMax Coding Plan、GLM Coding Plan、国产 AI 编程订阅、Claude Code 平替和人民币套餐方向。
 
-## 热门长尾关键词
+## 常见查询场景
 
 这个仓库重点覆盖这些搜索需求：AI Coding Plan、Coding Plan 价格、Coding Plan 对比、AI 编程订阅、AI IDE 价格、Claude Code 平替、Claude Code 价格、Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、Kimi Code 价格、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Agent 编程工具、AI 代码助手、AI 编程套餐。
 
