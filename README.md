@@ -24,7 +24,7 @@
 | [GLM](vendors/zhipu-coding-plan.md) | Coding Plan | ¥49/月起 | GLM | 国产编程套餐 |
 
 
-## 专题目录
+## 对比案例
 
 - [Claude Code 平替套餐目录](guides/claude-code-alternatives.md)：整理 Claude Code 平替、Kimi Code、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Claude Code 接入和 Agent 编程套餐方向。
 - [AI IDE 套餐价格目录](guides/ai-ide-pricing.md)：整理 Cursor Pro 价格、Trae Pro 价格、Windsurf Pro 价格、GitHub Copilot Pro 价格、AI IDE 订阅和 Agent 编程工具方向。

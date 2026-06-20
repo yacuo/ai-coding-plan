@@ -48,11 +48,11 @@ tags: "Claude Code 平替,Coding Plan,国产模型,Agent 编程"
 
 ## 入口索引
 
-- [Claude Code Plan](/claude-code-plan/)
-- [Kimi Coding Plan](/kimi-coding-plan/)
-- [MiniMax Coding Plan](/minimax-coding-plan/)
-- [Zhipu GLM Coding Plan](/zhipu-coding-plan/)
-- [Cursor Coding Plan](/cursor-coding-plan/)
+- [Claude Code Plan](https://tokenplan.vip/claude-code-plan/)
+- [Kimi Coding Plan](https://tokenplan.vip/kimi-coding-plan/)
+- [MiniMax Coding Plan](https://tokenplan.vip/minimax-coding-plan/)
+- [Zhipu GLM Coding Plan](https://tokenplan.vip/zhipu-coding-plan/)
+- [Cursor Coding Plan](https://tokenplan.vip/cursor-coding-plan/)
 
 ## 说明
 

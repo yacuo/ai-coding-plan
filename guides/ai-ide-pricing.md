@@ -47,10 +47,10 @@ tags: "AI IDE,Cursor,Trae,Windsurf,Copilot,价格对比"
 
 ## 入口索引
 
-- [Cursor Coding Plan](/cursor-coding-plan/)
-- [Trae Coding Plan](/trae-coding-plan/)
-- [Windsurf Coding Plan](/windsurf-coding-plan/)
-- [GitHub Copilot Coding Plan](/github-copilot-coding-plan/)
+- [Cursor Coding Plan](https://tokenplan.vip/cursor-coding-plan/)
+- [Trae Coding Plan](https://tokenplan.vip/trae-coding-plan/)
+- [Windsurf Coding Plan](https://tokenplan.vip/windsurf-coding-plan/)
+- [GitHub Copilot Coding Plan](https://tokenplan.vip/github-copilot-coding-plan/)
 
 ## 说明
 

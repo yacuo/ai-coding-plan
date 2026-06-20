@@ -48,10 +48,10 @@ tags: "国产 Coding Plan,Kimi,MiniMax,GLM,Trae,Claude Code 平替"
 
 ## 入口索引
 
-- [Kimi Coding Plan](/kimi-coding-plan/)
-- [MiniMax Coding Plan](/minimax-coding-plan/)
-- [Zhipu GLM Coding Plan](/zhipu-coding-plan/)
-- [Trae Coding Plan](/trae-coding-plan/)
+- [Kimi Coding Plan](https://tokenplan.vip/kimi-coding-plan/)
+- [MiniMax Coding Plan](https://tokenplan.vip/minimax-coding-plan/)
+- [Zhipu GLM Coding Plan](https://tokenplan.vip/zhipu-coding-plan/)
+- [Trae Coding Plan](https://tokenplan.vip/trae-coding-plan/)
 
 ## 说明
 
