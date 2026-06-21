@@ -2,6 +2,7 @@
 title: "AI IDE 套餐价格目录：Cursor、Trae、Windsurf、Copilot 综合对比"
 description: "整理 Cursor Pro、Trae Pro、Windsurf Pro、GitHub Copilot Pro 的价格、额度、Agent 能力、官网入口、优惠和 Claude Code 接入相关信息。"
 keywords: "AI IDE 价格,Cursor Pro 价格,Trae Pro 价格,Windsurf Pro 价格,GitHub Copilot Pro 价格,AI 编程订阅,Agent 编程工具,额度,优惠,官网入口,Claude Code 平替"
+date: "2026-06-19"
 tags: "AI IDE,Cursor,Trae,Windsurf,Copilot,价格对比"
 ---
 

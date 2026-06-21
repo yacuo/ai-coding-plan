@@ -2,6 +2,7 @@
 title: "Claude Code 平替套餐目录：Coding Plan、接入方式、额度综合对比"
 description: "整理 Claude Code 平替、Kimi Coding Plan、MiniMax Coding Plan、GLM Coding Plan、国产 Coding Plan、Claude Code 接入、Cursor 接入和 Agent 编程套餐。"
 keywords: "Claude Code 平替,Claude Code 价格,Claude Code 接入,Coding Plan,Kimi Coding Plan,MiniMax Coding Plan,GLM Coding Plan,国产 Coding Plan,Cursor 接入,额度,官网入口"
+date: "2026-06-19"
 tags: "Claude Code 平替,Coding Plan,国产模型,Agent 编程"
 ---
 

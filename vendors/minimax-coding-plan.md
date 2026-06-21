@@ -2,6 +2,7 @@
 title: "MiniMax Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan"
 description: "MiniMax Coding Plan、Token Plan 综合对比，覆盖价格、额度、额度重置、免费额度、优惠和官网入口，适合比较 MiniMax 怎么样、值不值得，以及 Claude Code 平替、Cursor、Claude Code 接入配置。"
 keywords: "Token Plan,Coding Plan,MiniMax,MiniMax 价格,MiniMax 对比,MiniMax 优惠,Claude Code 平替,MiniMax 怎么样,额度,额度重置,免费额度,官网入口,Claude Code,Cursor,Codex,Claude Code 接入"
+date: "2026-06-19"
 tags: "MiniMax,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 ---
 

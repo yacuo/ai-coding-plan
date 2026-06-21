@@ -2,6 +2,7 @@
 title: "国产 AI Coding Plan 目录：Kimi、MiniMax、GLM、Trae 综合对比"
 description: "整理国产 AI Coding Plan、Kimi Coding Plan、MiniMax Coding Plan、GLM Coding Plan、Trae Coding Plan 的价格、额度、优惠、官网入口、Claude Code 平替和接入方式。"
 keywords: "国产 AI Coding Plan,Kimi Coding Plan,MiniMax Coding Plan,GLM Coding Plan,Trae Coding Plan,Claude Code 平替,Coding Plan 价格,额度,优惠,官网入口,Claude Code 接入"
+date: "2026-06-19"
 tags: "国产 Coding Plan,Kimi,MiniMax,GLM,Trae,Claude Code 平替"
 ---
 
