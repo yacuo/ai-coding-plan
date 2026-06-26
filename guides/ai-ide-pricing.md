@@ -12,7 +12,9 @@ tags: "AI IDE,Cursor,Trae,Windsurf,Copilot,价格对比"
 
 这个专题不是单纯列价格，而是把 AI IDE 的价格、额度、Agent 能力、自动补全、模型选择、优惠、官网入口和团队协作放在一起对比。
 
-数据来源：[TokenPlan 详情：https://tokenplan.vip/](https://tokenplan.vip/)
+数据来源：TokenPlan 详情
+
+[https://tokenplan.vip](https://tokenplan.vip)
 
 ## 快速对比
 

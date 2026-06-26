@@ -8,6 +8,10 @@ tags: "Kimi,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 
 # Kimi Coding Plan 优惠、价格对比 ｜ Token Plan 官网入口 - TokenPlan
 
+数据来源：TokenPlan 详情
+
+[https://tokenplan.vip/kimi-coding-plan](https://tokenplan.vip/kimi-coding-plan)
+
 > 可视化页面：[https://codingplan.pw/kimi-coding-plan/](https://codingplan.pw/kimi-coding-plan/)
 
 ## 综合对比重点
@@ -15,8 +19,6 @@ tags: "Kimi,Coding Plan,Token Plan,价格对比,Claude Code 平替,官网入口"
 本页不是单纯列价格，而是围绕 Coding Plan、Token Plan、价格对比、额度、额度重置、免费额度、优惠、官网入口、Claude Code 平替、Cursor、Claude Code 接入配置等搜索场景做综合整理。
 
 Kimi Code 是月之暗面提供的 AI 编程相关能力，和 Kimi 会员、Agent、办公能力共享额度池。
-
-数据来源：[TokenPlan 详情：https://tokenplan.vip/kimi-coding-plan](https://tokenplan.vip/kimi-coding-plan)
 
 ## 价格
 
@@ -44,7 +46,9 @@ Kimi Code 是月之暗面提供的 AI 编程相关能力，和 Kimi 会员、Age
 
 ## TokenPlan 详情
 
-- [Kimi Code / Kimi Token Plan 详情](https://tokenplan.vip/kimi-token-plan)
+数据来源：TokenPlan 详情
+
+[https://tokenplan.vip/kimi-token-plan](https://tokenplan.vip/kimi-token-plan)
 
 ## 备注
 

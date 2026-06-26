@@ -12,7 +12,9 @@ tags: "国产 Coding Plan,Kimi,MiniMax,GLM,Trae,Claude Code 平替"
 
 这个专题整理国内用户更容易注册、支付和访问的 AI Coding Plan。重点比较价格、额度、额度重置、优惠、官网入口、Claude Code 平替能力、Cursor 接入和团队落地成本。
 
-数据来源：[TokenPlan 详情：https://tokenplan.vip/](https://tokenplan.vip/)
+数据来源：TokenPlan 详情
+
+[https://tokenplan.vip](https://tokenplan.vip)
 
 ## 快速对比
 
