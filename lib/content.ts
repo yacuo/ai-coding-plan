@@ -84,7 +84,7 @@ function markdownToHtml(markdown: string) {
       index += 2;
       while (index < lines.length && lines[index].trim().includes("|")) {
         const cells = parseTableRow(lines[index]);
-        html.push("<tr>" + cells.map((cell) => `<td>${cell}</td>`).join("") + "</tr>");
+        html.push("<tr>" + cells.map((cell, cellIndex) => `<td data-label="${headers[cellIndex] || ""}">${cell}</td>`).join("") + "</tr>");
         index += 1;
       }
       html.push("</tbody></table></div>");
